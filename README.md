@@ -1,7 +1,10 @@
 # Little Lemon Database Project
 
 ## Overview
-This project is the **Capstone Project** for the **Meta Database Engineer Professional Certificate**. The goal of this project is to design, implement, and analyze a relational database for **Little Lemon**, a restaurant business. The project involves:
+
+![Logo of Resturant](Logo.png)
+
+This project is the **Capstone Project** for the [Meta Database Engineering Professional Certificate in Coursera](https://www.coursera.org/professional-certificates/meta-database-engineer). The goal of this project is to design, implement, and analyze a relational database for **Little Lemon**, a restaurant business. The project involves:
 
 - **Designing a database schema** in MySQL Workbench
 - **Creating and populating tables** using MySQL
@@ -26,6 +29,8 @@ The database consists of multiple tables:
 ## ER Diagram
 The entity-relationship diagram (ERD) was designed using MySQL Workbench to represent relationships between tables.
 
+![ER Diagram](ERD.png)
+
 ## Power BI Analysis
 Power BI was used to analyze and visualize key metrics such as:
 - **Total Sales** (Card Visualization)
@@ -39,6 +44,7 @@ Power BI was used to analyze and visualize key metrics such as:
 ## Installation & Setup
 ### Requirements:
 - **MySQL Server & Workbench**
+- **Microsoft Excel**
 - **Power BI Desktop**
 
 ### Steps to Run the Project:

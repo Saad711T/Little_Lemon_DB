@@ -41,9 +41,6 @@ Power BI was used to analyze and visualize key metrics such as:
 - **Delivery Cost per City** (Map Visualization)
 - **Total Discounts Given** (Card Visualization)
 
-  **Example** :
-  ![Sum of sales by city](Visualizations/Sum of Sales by city - Columns Chart.png)
-
 ## Installation & Setup
 ### Requirements:
 - **MySQL Server & Workbench**

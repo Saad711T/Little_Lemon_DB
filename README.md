@@ -34,13 +34,15 @@ The entity-relationship diagram (ERD) was designed using MySQL Workbench to repr
 ## Power BI Analysis
 Power BI was used to analyze and visualize key metrics such as:
 - **Total Sales** (Card Visualization)
+![Image](Visualizations/Sales_Card.png)
 - **Sales by City** (Column Chart)
+![Image](Visualizations/SumofSalesbycity_Columns_Chart.png)
 - **Top Selling Courses** (Bar Chart)
-- **Orders per Customer** (Pie Chart)
-- **Sales Over Time** (Line Chart)
-- **Delivery Cost per City** (Map Visualization)
-- **Total Discounts Given** (Card Visualization)
-
+![Image](Visualizations/MostFamousFoods_Bar_Chart.png)
+- **Orders per Customer** (Pie Chart) `Visualizations`
+- **Sales Over Time** (Line Chart) `Visualizations`
+- **Delivery Cost per City** (Map Visualization) `Visualizations`
+- **Total Discounts Given** (Card Visualization) `Visualizations`
 ## Installation & Setup
 ### Requirements:
 - **MySQL Server & Workbench**
